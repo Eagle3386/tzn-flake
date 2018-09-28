@@ -1,5 +1,6 @@
 # TZN Flake
-A FLAC de-/en-/transcoder with metadata support.
+A FLAC de-/encoder & metadata editor, written in C#, using libFLAC via P/Invoke.
+
 Further details coming soon...
 
 ## Quick infos
